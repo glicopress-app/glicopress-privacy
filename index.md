@@ -5,7 +5,7 @@
 ## 1. Introduzione
 GlicoPress è un'applicazione Android per la registrazione e visualizzazione di dati di pressione arteriosa e glicemia. Questa Privacy Policy spiega come l'app gestisce i tuoi dati personali.
 
-**Titolare del trattamento:** Jim (sviluppatore di GlicoPress). Per contatti: jimthend@tuta.io
+**Titolare del trattamento:** Massimiliano Stocchino (sviluppatore di GlicoPress). Per contatti: jimthend@tuta.io
 
 ## 2. Dati raccolti e dove sono salvati
 GlicoPress **NON invia i tuoi dati sanitari a server esterni**. Tutti i dati inseriti (nome, data di nascita, email, piano terapeutico, misurazioni di pressione e glicemia) sono salvati **esclusivamente in locale**, nella memoria interna privata dell'app sul tuo dispositivo Android.
