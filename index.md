@@ -1,6 +1,6 @@
 # Privacy Policy di GlicoPress
 
-**Ultimo aggiornamento: 19/10/2026**
+**Ultimo aggiornamento: 21/10/2026**
 
 ## 1. Introduzione
 GlicoPress è un'applicazione Android per la registrazione e visualizzazione di dati di pressione arteriosa e glicemia. Questa Privacy Policy spiega come l'app gestisce i tuoi dati personali.
