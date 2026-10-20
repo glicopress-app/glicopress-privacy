@@ -15,13 +15,13 @@ L'app **non richiede il permesso INTERNET** per il salvataggio dei dati. I tuoi 
 ## 3. Backup e Condivisione
 L'app permette di creare un **backup manuale** (file ZIP) e di esportare un **report PDF**. In questi casi, è **l'utente** a decidere dove inviare il file (email, Google Drive, WhatsApp, ecc.). GlicoPress non è responsabile del trattamento dei dati da parte delle app di terze parti scelte dall'utente.
 
-## 4. Pubblicità (AdMob) e Dati degli Inserzionisti
-Per mantenere l'app gratuita, utilizziamo **Google AdMob** per mostrare banner pubblicitari.
+## 4. Pubblicità e Monetizzazione
 
-- **Nessuna condivisione di dati sanitari:** AdMob **non ha accesso** ai dati delle tue misurazioni, ai nomi dei pazienti o a qualsiasi informazione sanitaria. Questi dati rimangono nella memoria privata dell'app.
-- **Annunci non personalizzati:** Utilizziamo la configurazione di AdMob per mostrare **solo annunci non personalizzati** (Non-Personalized Ads). Ciò significa che gli annunci non sono basati sul tuo comportamento o sui tuoi interessi.
-- **Dati tecnici:** AdMob può raccogliere l'ID pubblicitario del dispositivo e l'indirizzo IP per mostrare l'annuncio, misurare le prestazioni e prevenire frodi. Questi dati sono gestiti secondo la [Privacy Policy di Google](https://policies.google.com/privacy).
-- **Consenso GDPR:** Se ti trovi nell'Unione Europea, ti verrà chiesto il consenso per l'uso dell'ID pubblicitario tramite un apposito popup (UMP SDK) al primo avvio.
+Attualmente, GlicoPress è un'applicazione **completamente gratuita e senza pubblicità**. Lo sviluppatore non ha alcun interesse a condividere i tuoi dati per scopi commerciali.
+
+Nessuna condivisione di dati: GlicoPress non invia, non vende e non condivide i tuoi dati sanitari (misurazioni, nomi dei pazienti, terapie) con nessun inserzionista, rete pubblicitaria o server esterno. I tuoi dati rimangono esclusivamente sul tuo dispositivo e nessuno può accedervi.
+
+Sviluppi futuri: Lo sviluppatore si riserva la possibilità di introdurre, in futuro, un piccolo banner pubblicitario (tramite Google AdMob) o un abbonamento opzionale per mantenere l'app. Qualora ciò avvenisse, questa Privacy Policy verrà aggiornata e ti verrà chiesto il consenso esplicito (GDPR) prima di mostrarti qualsiasi annuncio o di utilizzare il tuo ID pubblicitario.
 
 ## 5. Diritti dell'utente (GDPR)
 In conformità con il Regolamento Generale sulla Protezione dei Dati (GDPR), hai il diritto di:
