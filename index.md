@@ -8,12 +8,10 @@ GlicoPress è un'applicazione Android per la registrazione e visualizzazione di 
 **Titolare del trattamento:** Massimiliano Stocchino (sviluppatore di GlicoPress). Per contatti: jimthend@tuta.io
 
 ## 2. Dati raccolti e dove sono salvati
-GlicoPress **NON invia i tuoi dati sanitari a server esterni**. Tutti i dati inseriti (nome, data di nascita, email, piano terapeutico, misurazioni di pressione e glicemia) sono salvati **esclusivamente in locale**, nella memoria interna privata dell'app sul tuo dispositivo Android.
-
-L'app **non richiede il permesso INTERNET** per il salvataggio dei dati. I tuoi dati sanitari rimangono sul tuo telefono e non vengono mai caricati su cloud o condivisi con terze parti.
+GlicoPress non trasmette i tuoi dati sanitari a server esterni. Anche qualora il permesso di accesso a Internet fosse presente nel pacchetto dell'applicazione per esigenze tecniche legate alle librerie di sistema, i tuoi dati clinici rimangono salvati esclusivamente nella memoria interna privata dell'app sul tuo dispositivo Android e non vengono mai caricati su cloud o condivisi con terze parti. 
 
 ## 3. Backup e Condivisione
-L'app permette di creare un **backup manuale** (file ZIP) e di esportare un **report PDF**. In questi casi, è **l'utente** a decidere dove inviare il file (email, Google Drive, WhatsApp, ecc.). GlicoPress non è responsabile del trattamento dei dati da parte delle app di terze parti scelte dall'utente.
+L'app permette di creare un backup manuale (file ZIP) e di esportare un report PDF. Ti informiamo che il file di backup non è protetto da password/cifratura. Pertanto, il backup contiene dati sanitari sensibili in chiaro. Ti raccomandiamo di conservarlo in un luogo sicuro e di condividerlo solo tramite canali protetti (es. email personali o cloud privati). GlicoPress non è responsabile del trattamento dei dati una volta che il file è uscito dall'app.
 
 ## 4. Pubblicità e Monetizzazione
 
@@ -30,11 +28,13 @@ In conformità con il Regolamento Generale sulla Protezione dei Dati (GDPR), hai
 - **Cancellare** i dati (tramite "Elimina Paziente" o disinstallando l'app).
 - **Esportare** i dati (tramite la funzione "Salva Backup Dati" e "Esporta PDF").
 
+Per esercitare i tuoi diritti o per qualsiasi domanda, puoi contattare il Titolare del trattamento all'indirizzo email indicato nella Sezione 9. Hai inoltre il diritto di proporre reclamo all'Autorità Garante per la protezione dei dati personali (www.garanteprivacy.it).
+
 ## 6. Conservazione dei dati
 I dati rimangono sul dispositivo finché l'utente non li cancella o non disinstalla l'app. GlicoPress non conserva copie su server esterni.
 
 ## 7. Minori
-L'app non è destinata a minori di 16 anni. Non raccogliamo consapevolmente dati di minori.
+GlicoPress è uno strumento di supporto sanitario per adulti. L'app può essere utilizzata anche per la gestione dei dati di minori, a condizione che l'inserimento e la gestione dei dati siano effettuati da un genitore o tutore legale. Non raccogliamo consapevolmente dati identificativi di minori in modo autonomo; i dati inseriti sono sotto la responsabilità dell'adulto che utilizza l'app.
 
 ## 8. Modifiche alla Privacy Policy
 Eventuali modifiche saranno pubblicate in questa pagina con data di aggiornamento.
