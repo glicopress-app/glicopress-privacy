@@ -34,6 +34,8 @@ Per esercitare i tuoi diritti o per qualsiasi domanda, puoi contattare il Titola
 ## 6. Conservazione dei dati
 I dati rimangono sul dispositivo finché l'utente non li cancella o non disinstalla l'app. GlicoPress non conserva copie su server esterni.
 
+⚠️ ATTENZIONE: La cancellazione della "Cache" o dei "Dati" dell'app dalle Impostazioni di Android comporterà la perdita irreversibile di tutti i dati (pazienti, misurazioni, terapie). Si consiglia vivamente di effettuare un Backup dei Dati prima di eseguire tali operazioni. Lo sviluppatore non è in grado di recuperare dati persi a causa di queste azioni.
+
 ## 7. Minori
 GlicoPress è uno strumento di supporto sanitario per adulti. L'app può essere utilizzata anche per la gestione dei dati di minori, a condizione che l'inserimento e la gestione dei dati siano effettuati da un genitore o tutore legale. Non raccogliamo consapevolmente dati identificativi di minori in modo autonomo; i dati inseriti sono sotto la responsabilità dell'adulto che utilizza l'app.
 
