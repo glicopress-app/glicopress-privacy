@@ -34,7 +34,7 @@ Per esercitare i tuoi diritti o per qualsiasi domanda, puoi contattare il Titola
 ## 6. Conservazione dei dati
 I dati rimangono sul dispositivo finché l'utente non li cancella o non disinstalla l'app. GlicoPress non conserva copie su server esterni.
 
-###⚠️ ATTENZIONE ALLA GESTIONE DEI DATI
+**⚠️ ATTENZIONE ALLA GESTIONE DEI DATI**
 
 Svuotare la sola "Cache" di GlicoPress dalle Impostazioni di Android è sicuro e non cancella le tue misurazioni.
 Invece, l'opzione "Cancella dati" (o "Elimina dati") comporterà la perdita irreversibile di TUTTI i dati (pazienti, misurazioni, terapie).
