@@ -11,6 +11,9 @@ GlicoPress è un registro personale per l'autocontrollo e il monitoraggio dei pa
 ## 2. Dati raccolti e dove sono salvati
 GlicoPress non trasmette i tuoi dati sanitari a server esterni. Anche qualora il permesso di accesso a Internet fosse presente nel pacchetto dell'applicazione per esigenze tecniche legate alle librerie di sistema, i tuoi dati clinici rimangono salvati esclusivamente nella memoria interna privata dell'app sul tuo dispositivo Android e non vengono mai caricati su cloud o condivisi con terze parti. 
 
+2.1 Dati di diagnostica (Crash Log)
+Al fine di garantire la stabilità e il corretto funzionamento dell'app, GlicoPress si affida ai report di errore generati automaticamente dal sistema operativo Android (tramite Google Play Console). Questi report possono includere informazioni tecniche anonime come il modello del dispositivo, la versione del sistema operativo, l'ID dell'app e la traccia dello stack in caso di crash. Nessun dato sanitario o personale inserito dall'utente viene mai incluso in questi report. Tali dati vengono utilizzati esclusivamente per correggere bug e migliorare l'esperienza d'uso.
+
 ## 3. Backup e Condivisione
 L'app permette di creare un backup manuale (file ZIP) e di esportare un report PDF. Ti informiamo che il file di backup non è protetto da password/cifratura. Pertanto, il backup contiene dati sanitari sensibili in chiaro. Ti raccomandiamo di conservarlo in un luogo sicuro e di condividerlo solo tramite canali protetti (es. email personali o cloud privati). GlicoPress non è responsabile del trattamento dei dati una volta che il file è uscito dall'app.
 
