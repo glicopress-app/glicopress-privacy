@@ -66,7 +66,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   404812_share_nodes_v4a9180c84e (ic_condividi) - MIT License
 *   151231_license_v48b185fd6c (ic_license) - MIT License
 *   link-symbol-of-two-chains-links-linked_icon-icons.com_56928 (ic_link) - [Di SimpleIcon  CC BY 4.0](https://mega.nz/file/mvw3HCJK#Nef3i5qukoFBfa6qQfIOeV9-xUpAydkQC8YgfXt93pQ)
-*   moon_icon_144203 (ic_moon) - [Di CoreUI CC BY 4.0](https://mega.nz/file/e2xxBb5A#77xp1UZNiUwLhJSXV-AOLRKcldUDCPYpiWKUnTuJVSU)
+*   moon_icon_144203 (ic_moon) - [Di CoreUI  CC BY 4.0](https://mega.nz/file/e2xxBb5A#77xp1UZNiUwLhJSXV-AOLRKcldUDCPYpiWKUnTuJVSU)
 *   404098_switch_vaf86c9e009 (ic_off - modificata) - MIT License
 *   404098_switch_vaf86c9e009 (ic_on - modificata) - MIT License
 *   399563_toggle_multiple_regular_v7db0a0b02b (ic_on_off) - MIT License
