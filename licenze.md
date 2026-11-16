@@ -74,10 +74,8 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   clear-sun_icon-icons.com_54320 (ic_sun)
 
 ### FreeIcon
-*   **Licenza**: CC BY 4.0 , MIT
-    *   [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)
-    *   [Termini di FreeIcon](https://freeicon.com/it/license-agreement)
-    *   [MIT License](https://opensource.org/license/MIT)
+*   Condizioni d'uso: Licenza gratuita di FreeIcon.com. Utilizzo personale e commerciale consentito, con possibilità di modifica. Attribuzione facoltativa e non obbligatoria. Si applicano le restrizioni previste dall'Accordo di licenza.
+**Licenza**:  [Termini di utilizzo delle icone](https://freeicon.com/it/license-agreement)
 *   **Sito**: [freeicon.com](https://freeicon.com/it/)
 *   **Autori**: Dave Gandy, Icon Market, BoldPath
 
