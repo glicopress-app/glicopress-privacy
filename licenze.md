@@ -65,13 +65,13 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   401983_calendar_range_v463ca3022a (ic_calendar_range) - ISC License
 *   404812_share_nodes_v4a9180c84e (ic_condividi) - MIT License
 *   151231_license_v48b185fd6c (ic_license) - MIT License
-*   link-symbol-of-two-chains-links-linked_icon-icons.com_56928 (ic_link) - [Di SimpleIcon  CC BY 4.0](https://mega.nz/file/Xm4FhbSA#Nef3i5qukoFBfa6qQfIOeV9-xUpAydkQC8YgfXt93pQ)
-*   moon_icon_144203 (ic_moon) - CC BY 4.0
+*   link-symbol-of-two-chains-links-linked_icon-icons.com_56928 (ic_link) - [Di SimpleIcon  CC BY 4.0](https://mega.nz/file/mvw3HCJK#Nef3i5qukoFBfa6qQfIOeV9-xUpAydkQC8YgfXt93pQ)
+*   moon_icon_144203 (ic_moon) - [Di CoreUI CC BY 4.0](https://mega.nz/file/e2xxBb5A#77xp1UZNiUwLhJSXV-AOLRKcldUDCPYpiWKUnTuJVSU)
 *   404098_switch_vaf86c9e009 (ic_off - modificata) - MIT License
 *   404098_switch_vaf86c9e009 (ic_on - modificata) - MIT License
 *   399563_toggle_multiple_regular_v7db0a0b02b (ic_on_off) - MIT License
-*   data-privacy_icon-icons.com_71694 (ic_privacy) - CC BY 4.0
-*   clear-sun_icon-icons.com_54320 (ic_sun) - CC BY 4.0
+*   data-privacy_icon-icons.com_71694 (ic_privacy) - [Di Picol CC BY 4.0](https://mega.nz/file/TmwRwD5Z#wv1BR0HkRd3mR_O_ZLTSvVHsegvOBLDuBRD9Gg3rPms)
+*   clear-sun_icon-icons.com_54320 (ic_sun) - [Di Yannick CC BY 4.0](https://mega.nz/file/CmYCGIjL#MXc8_RfOxpFSMZI_EzpjvsDk_lhPil7nLpjrHIkNMpY)
 
 ### FreeIcon
 *   **Condizioni d'uso**: Licenza gratuita di FreeIcon.com. Utilizzo personale e commerciale consentito, con possibilità di modifica. Attribuzione facoltativa e non obbligatoria. Si applicano le restrizioni previste dall'Accordo di licenza.
