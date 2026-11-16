@@ -8,7 +8,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   **PDFBox-Android** – Licenza Apache 2.0
 *   **Gson** – Licenza Apache 2.0
 *   **Material Design Components** – Licenza Apache 2.0
-*   **[Licenza Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+*   [Licenza Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 ## Risorse Grafiche
