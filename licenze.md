@@ -59,7 +59,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
     *   [MIT License](https://opensource.org/license/MIT)
     *   [ISC License](https://opensource.org/license/ISC)
 *   **Sito**: [icon-icons.com](https://icon-icons.com/it/)
-*   **Autori**: Lucide Contributors, Flowbite, SimpleIcon, CoreUI, Radix UI, Microsoft, Picol, Yannick, Icon Market
+*   **Autori**: Lucide Contributors, Flowbite, Tabler, SimpleIcon, CoreUI, Radix UI, Microsoft, Picol, Yannick
 
 *Icone utilizzate (Nome originale / Nome modificato):*
 *   401983_calendar_range_v463ca3022a (ic_calendar_range) - ISC License
