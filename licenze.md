@@ -47,7 +47,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   plus_circle_icon_211763 (ic_plus)
 *   edit (ic_menu_edit)
 *   heartbeat (ic_pressionet)
-*   Heart-plus (ic_pressure_plus)
+*   Heart-plus (ic_pressure_plus - modificata)
 *   refresh (ic_refresh)
 *   user (ic_user)
 *   User-x (ic_user_delete)
@@ -62,16 +62,16 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   **Autori**: Lucide Contributors, Flowbite, SimpleIcon, CoreUI, Radix UI, Microsoft, Picol, Yannick, Icon Market
 
 *Icone utilizzate (Nome originale / Nome modificato):*
-*   401983_calendar_range_v463ca3022a (ic_calendar_range)
-*   404812_share_nodes_v4a9180c84e (ic_condividi)
-*   151231_license_v48b185fd6c (ic_license)
-*   link-symbol-of-two-chains-links-linked_icon-icons.com_56928 (ic_link)
-*   moon_icon_144203 (ic_moon - modificata)
-*   404098_switch_vaf86c9e009 (ic_off)
-*   404098_switch_vaf86c9e009 (ic_on)
-*   399563_toggle_multiple_regular_v7db0a0b02b (ic_on_off)
-*   data-privacy_icon-icons.com_71694 (ic_privacy)
-*   clear-sun_icon-icons.com_54320 (ic_sun)
+*   401983_calendar_range_v463ca3022a (ic_calendar_range) - ISC License
+*   404812_share_nodes_v4a9180c84e (ic_condividi) - MIT License
+*   151231_license_v48b185fd6c (ic_license) - MIT License
+*   link-symbol-of-two-chains-links-linked_icon-icons.com_56928 (ic_link) - CC BY 4.0
+*   moon_icon_144203 (ic_moon) - CC BY 4.0
+*   404098_switch_vaf86c9e009 (ic_off - modificata) - MIT License
+*   404098_switch_vaf86c9e009 (ic_on - modificata) - MIT License
+*   399563_toggle_multiple_regular_v7db0a0b02b (ic_on_off) - MIT License
+*   data-privacy_icon-icons.com_71694 (ic_privacy) - CC BY 4.0
+*   clear-sun_icon-icons.com_54320 (ic_sun) - CC BY 4.0
 
 ### FreeIcon
 *   **Condizioni d'uso**: Licenza gratuita di FreeIcon.com. Utilizzo personale e commerciale consentito, con possibilità di modifica. Attribuzione facoltativa e non obbligatoria. Si applicano le restrizioni previste dall'Accordo di licenza.
@@ -83,7 +83,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   cutlery (ic_cutlery)
 *   email (ic_email)
 *   folder (ic_folder)
-*   list (ic_momenti) :  
+*   list (ic_momenti)  
 *   medicine (ic_terapia - modificata)
 
 ---
