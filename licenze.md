@@ -35,7 +35,6 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   Clock-search (ic_clock_search)
 *   Cloud-download (ic_cloud_download)
 *   Cloud-upload (ic_cloud_upload)
-*   cutlery (ic_cutlery)
 *   trash (ic_delete)
 *   User-edit (ic_edit_user)
 *   File-type-pdf (ic_export)
@@ -45,6 +44,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   Info-triangle (ic_info_triangle)
 *   Checkup-list (ic_list)
 *   Color-picker (ic_matita)
+*   plus_circle_icon_211763 (ic_plus)
 *   edit (ic_menu_edit)
 *   heartbeat (ic_pressionet)
 *   Heart-plus (ic_pressure_plus)
@@ -79,9 +79,10 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
     *   [Termini di FreeIcon](https://freeicon.com/it/license-agreement)
     *   [MIT License](https://opensource.org/license/MIT)
 *   **Sito**: [freeicon.com](https://freeicon.com/it/)
-*   **Autori**: Dave Gandy, Icon Market
+*   **Autori**: Dave Gandy, Icon Market, BoldPath
 
 *Icone utilizzate (Nome originale / Nome modificato):*
+*   cutlery (ic_cutlery)
 *   email (ic_email)
 *   folder (ic_folder)
 *   list (ic_momenti) :  
