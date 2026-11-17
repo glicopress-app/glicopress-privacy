@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Privacy Policy di GlicoPress
 
 Ultimo aggiornamento: 17/11/2026
