@@ -81,11 +81,11 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   **Autori**: Dave Gandy, Icon Market, BoldPath
 
 *Icone utilizzate (Nome originale / Nome modificato):*
-*   cutlery (ic_cutlery)
-*   email (ic_email)
-*   folder (ic_folder)
-*   list (ic_momenti)  
-*   medicine (ic_terapia - modificata)
+*   cutlery (ic_cutlery) - Di BoldPath 
+*   email (ic_email) - Di Dave Gandy 
+*   folder (ic_folder) - Di Dave Gandy 
+*   list (ic_momenti) -   Di Dave Gandy 
+*   medicine (ic_terapia - modificata) - Di Icon Market 
 
 ---
 
