@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Licenze e Attribuzioni di GlicoPress
 
 GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune icone sono state adattate, rinominate o modificate graficamente per esigenze di layout.
