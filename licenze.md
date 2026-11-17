@@ -38,6 +38,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   Cloud-download (ic_cloud_download)
 *   Cloud-upload (ic_cloud_upload)
 *   trash (ic_delete)
+*   contract (ic_contract)
 *   User-edit (ic_edit_user)
 *   File-type-pdf (ic_export)
 *   droplet (ic_glicemia)
