@@ -16,7 +16,7 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 ### Tabler Icons
 *   **Licenza**: MIT [MIT License](https://opensource.org/license/MIT)
 *   **Sito**: [tabler.io/icons](https://tabler.io/icons)
-*   **[Licenses of Tabler products](https://tabler.io/license)**
+*   **[Licenses of Tabler products](https://github.com/tabler/tabler-icons/blob/main/LICENSE)**
 *   **Autore**: Tabler
 
 *Icone utilizzate (Nome originale / Nome modificato):*
