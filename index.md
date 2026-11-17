@@ -2,7 +2,7 @@
 
 ### Privacy Policy di GlicoPress ###
 
-**Ultimo aggiornamento: 15/11/2026**
+**Ultimo aggiornamento: 17/11/2026**
 
 ## 1. Introduzione
 GlicoPress è un'applicazione Android pensata per annotare e consultare le misurazioni della glicemia e della pressione arteriosa.
