@@ -6,7 +6,7 @@ Ultimo aggiornamento: 18/11/2026
 
 I presenti Termini e Condizioni disciplinano l'utilizzo dell'applicazione Android **GlicoPress**, sviluppata da Massimiliano Stocchino.
 
-GlicoPress è un'applicazione destinata alla registrazione, alla consultazione e all'organizzazione delle misurazioni della glicemia e della pressione arteriosa, con la possibilità di annotare ulteriori informazioni e generare report in formato PDF.
+GlicoPress è un'applicazione destinata all'annotazione, alla consultazione e all'organizzazione delle misurazioni della glicemia e della pressione arteriosa, con la possibilità di aggiungere ulteriori informazioni e generare report in formato PDF.
 
 L'utilizzo dell'applicazione è subordinato alla lettura e all'accettazione dei presenti Termini e Condizioni.
 
