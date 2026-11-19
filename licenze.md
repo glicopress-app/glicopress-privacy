@@ -55,6 +55,8 @@ GlicoPress utilizza le seguenti librerie software e risorse grafiche. Alcune ico
 *   user (ic_user)
 *   User-x (ic_user_delete)
 *   User-plus (ic_user_plus)
+*   clipboard-check (ic_check)
+*   door-enter (ic_door - modificata) 
 
 ### Icon-Icons (e autori vari)
 *   **Licenza**: CC BY 4.0, MIT o ISC License (come specificato per singola icona)
